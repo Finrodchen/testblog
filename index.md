@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+# Lots of tests here.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+![](https://i.imgur.com/r0E42oO.jpg)
